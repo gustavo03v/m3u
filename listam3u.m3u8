@@ -1,39 +1,49 @@
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.bing.com/images/search?view=detailV2&ccid=2Ue%2fXs7N&id=AD155E987C22BBEB5B1FABA10AC0B9156C60D194&thid=OIP.2Ue_Xs7NTWaxAw1TnhMYwQHaHa&mediaurl=https%3a%2f%2fyt3.ggpht.com%2fa%2fAGF-l7_jQzgf9FjfLpdg_SF0esN2iM-z7Q_n3g_DvQ%3ds900-c-k-c0xffffffff-no-rj-mo&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d947bf5ececd4d66b1030d539e1318c1%3frik%3dlNFgbBW5wAqhqw%26pid%3dImgRaw%26r%3d0&exph=900&expw=900&q=globo+play&simid=607990679130674644&FORM=IRPRST&ck=D3444C6B369A747FB302EE35E068A371&selectedIndex=7&itb=0" group-title="TV ABERTA", Globo Play
-https://globoplay.globo.com/tv-globo/ao-vivo/6120663/
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_813086-MLA72315330937_102023-C.webp" group-title="CANAIS DE FILMES", O regresso
-https://play.mercadolivre.com.br/assistir/o-regresso/c81224dbeb5e4101a73db3e2c7e140a8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_654495-MLA73830011528_012024-C.webp" group-title="CANAIS DE FILMES", Escola de rock
-https://play.mercadolivre.com.br/assistir/escola-de-rock/fd251408c3964dfaa11610bb56bac51f?origin=mplay_hub&origin_position=1
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS DE FILMES", Porta dos Fundos
-https://play.mercadolivre.com.br/assistir/porta-dos-fundos-no-mercado-play/f63bfe4597d84be4b823770b4a7d34ee
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS DE FILMES", Agenda Proibida
-https://play.mercadolivre.com.br/assistir/agenda-proibida/f505c0b841da4ca9a99b7d98aa3d22d6?origin=mplay_hub&origin_position=20
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.bing.com/images/search?view=detailV2&ccid=2Ue%2fXs7N&id=AD155E987C22BBEB5B1FABA10AC0B9156C60D194&thid=OIP.2Ue_Xs7NTWaxAw1TnhMYwQHaHa&mediaurl=https%3a%2f%2fyt3.ggpht.com%2fa%2fAGF-l7_jQzgf9FjfLpdg_SF0esN2iM-z7Q_n3g_DvQ%3ds900-c-k-c0xffffffff-no-rj-mo&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d947bf5ececd4d66b1030d539e1318c1%3frik%3dlNFgbBW5wAqhqw%26pid%3dImgRaw%26r%3d0&exph=900&expw=900&q=globo+play&simid=607990679130674644&FORM=IRPRST&ck=D3444C6B369A747FB302EE35E068A371&selectedIndex=7&itb=0" group-title="TV ABERTA", Globo Play
-https://globoplay.globo.com/tv-globo/ao-vivo/6120663/
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_813086-MLA72315330937_102023-C.webp" group-title="CANAIS DE FILMES", O regresso
-https://play.mercadolivre.com.br/assistir/o-regresso/c81224dbeb5e4101a73db3e2c7e140a8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_654495-MLA73830011528_012024-C.webp" group-title="CANAIS DE FILMES", Escola de rock
-https://play.mercadolivre.com.br/assistir/escola-de-rock/fd251408c3964dfaa11610bb56bac51f?origin=mplay_hub&origin_position=1
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS DE FILMES", Porta dos Fundos
-https://play.mercadolivre.com.br/assistir/porta-dos-fundos-no-mercado-play/f63bfe4597d84be4b823770b4a7d34ee
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS DE FILMES", Agenda Proibida
-https://play.mercadolivre.com.br/assistir/agenda-proibida/f505c0b841da4ca9a99b7d98aa3d22d6?origin=mplay_hub&origin_position=20
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://filmezando.me/wp-content/uploads/2016/08/lJiJ4sEYQPIwjX6jLfT10dMBZ6p-200x300.jpg" group-title="CANAIS DE FILMES", Prison Break
-https://filmezando.me/assistir-prison-break-online/
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://filmezando.me/wp-content/uploads/2023/12/3ZpbQ571GHAYIZl1zqZ3Non75Y7-200x300.jpg" group-title="CANAIS DE FILMES", A Fuga das Galinhas: A Amea a dos Nuggets
-https://filmezando.me/a-fuga-das-galinhas-a-ameaca-dos-nuggets/
+#EXTM3U
+#EXTINF:-1 tvg-id="",Smash TV [Geo-blocked]
+http://80.79.6.221:25461/smash/public/1
+#EXTINF:-1 tvg-id="",Smash Radio 104.6FM [Geo-blocked]
+http://80.79.6.221:25461/smash/public/3
+#EXTINF:-1 tvg-id="",Smash Teleshopping [Geo-blocked]
+http://80.79.6.221:25461/smash/public/2
+#EXTINF:-1 tvg-id="",Smash Food [Geo-blocked]
+http://80.79.6.221:25461/smash/public/9
+#EXTINF:-1 tvg-id="",Smash Talk [Geo-blocked]
+http://80.79.6.221:25461/smash/public/15
+#EXTINF:-1 tvg-id="",Smash Explore [Geo-blocked]
+http://80.79.6.221:25461/smash/public/17
+#EXTINF:-1 tvg-id="",Smash 7News [Geo-blocked]
+http://80.79.6.221:25461/smash/public/16
+#EXTINF:-1 tvg-id="",Smash Music [Geo-blocked]
+http://80.79.6.221:25461/smash/public/10
+#EXTINF:-1 tvg-id="",Smash House of Rock [Geo-blocked]
+http://80.79.6.221:25461/smash/public/12
+#EXTINF:-1 tvg-id="",Smash Country [Geo-blocked]
+http://80.79.6.221:25461/smash/public/11
+#EXTINF:-1 tvg-id="",Smash Arabija [Geo-blocked]
+http://80.79.6.221:25461/smash/public/18
+#EXTINF:-1 tvg-id="",Rock Classics (Radio) [Geo-blocked]
+http://80.79.6.221:25461/smash/public/24
+#EXTINF:-1 tvg-id="",Jazz Club (Radio) [Geo-blocked]
+http://80.79.6.221:25461/smash/public/25
+#EXTINF:-1 tvg-id="",Bella Italia (Radio) [Geo-blocked]
+http://80.79.6.221:25461/smash/public/26
+#EXTINF:-1 tvg-id="",Puttinu [Geo-blocked]
+http://80.79.6.221:25461/smash/public/5
+#EXTINF:-1 tvg-id="",TVM [Geo-blocked]
+http://80.79.6.221:25461/smash/public/19
+#EXTINF:-1 tvg-id="",TVM News+ [Geo-blocked]
+http://80.79.6.221:25461/smash/public/20
+#EXTINF:-1 tvg-id="",ONE [Geo-blocked]
+http://80.79.6.221:25461/smash/public/21
+#EXTINF:-1 tvg-id="",NET [Geo-blocked]
+http://80.79.6.221:25461/smash/public/22
+#EXTINF:-1 tvg-id="",Parliament TV [Geo-blocked]
+http://80.79.6.221:25461/smash/public/23
+#EXTINF:-1 tvg-id="",Erga Lura TV [Geo-blocked]
+http://80.79.6.221:25461/smash/public/29
+#EXTINF:-1 tvg-id="",Padre Pio TV [Geo-blocked]
+http://80.79.6.221:25461/smash/public/8
+#EXTINF:-1 tvg-id="",AlmaTV [Geo-blocked]
+http://80.79.6.221:25461/smash/public/27
+#EXTINF:-1 tvg-id="",Al Jazeera Live (English) [Geo-blocked]
+http://80.79.6.221:25461/smash/public/30
